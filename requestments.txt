@@ -1,0 +1,6 @@
+pip install pytesseract
+pip install selenium
+pip install requests
+pip install tempfile
+pip install logging
+pip install fake_useragent
